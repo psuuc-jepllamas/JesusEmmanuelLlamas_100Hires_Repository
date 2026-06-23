@@ -14,23 +14,23 @@ I installed the following:
 
 -*Status: Completed*-
 
-1. Add the Claude Code add-on in Cursor (Extensions → search "Claude Code") and log in to it.
+2. Add the Claude Code add-on in Cursor (Extensions → search "Claude Code") and log in to it.
 
 -*Status: Completed*-
 
-1. Add the Codex add-on in Cursor (Extensions → search "Codex") and log in to it.
+3. Add the Codex add-on in Cursor (Extensions → search "Codex") and log in to it.
 
 -*Status: Completed*-
 
-1. Create a public GitHub repository (if you don't have a GitHub account yet, create one at [https://github.com/](https://github.com/))
+4. Create a public GitHub repository (if you don't have a GitHub account yet, create one at [https://github.com/](https://github.com/))
 
 *Status: Completed
 
-1. Open the repository in Cursor
+5. Open the repository in Cursor
 
 -*Status: Completed*-
 
-1. Create a README.md file that describes:
+6. Create a README.md file that describes:
 
 — What tools you installed
 
@@ -40,11 +40,11 @@ I installed the following:
 
 -*Status: Completed*-
 
-1. Commit and push to GitHub
+7. Commit and push to GitHub
 
 -*Status: Completed*-
 
-1. Reply to this email with the link to your README.md file on GitHub
+8. Reply to this email with the link to your README.md file on GitHub
 
 -*Status: Completed*-
 
