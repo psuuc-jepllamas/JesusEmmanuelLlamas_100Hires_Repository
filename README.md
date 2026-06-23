@@ -69,8 +69,3 @@ codex: The term 'codex' is not recognized as the name of a cmdlet, function, scr
 At line:1 char:1 + codex login + ~~~~~ + CategoryInfo : ObjectNotFound: (codex:String) [], CommandNotFoundException + FullyQualifiedErrorId : CommandNotFoundException
 
 - Google also said "The term 'codex' is not recognized" this means that a package named codex is not yet installed in my computer. It provided me with this command: npm install -g @openai/codex. This resolved the issue and I successfully logged in.
-
-
-Prepared by:
-              Jesus Emmanuel Llamas
-                   Applicant
