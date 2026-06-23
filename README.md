@@ -24,7 +24,7 @@ I installed the following:
 
 4. Create a public GitHub repository (if you don't have a GitHub account yet, create one at [https://github.com/](https://github.com/))
 
-*Status: Completed
+-*Status: Completed*-
 
 5. Open the repository in Cursor
 
