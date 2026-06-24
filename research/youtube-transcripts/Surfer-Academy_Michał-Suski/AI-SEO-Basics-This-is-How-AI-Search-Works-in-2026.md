@@ -4,7 +4,7 @@
 - Channel: Surfer Academy
 - URL: https://www.youtube.com/watch?v=CHDbwlUSOXc
 
-## Transcript
+## Transcriptv
 
 All right. So, if you want to rank your
 business in AI search, check this out.
