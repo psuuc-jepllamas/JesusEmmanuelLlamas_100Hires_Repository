@@ -4,7 +4,7 @@
 - Channel: Surfer Academy
 - URL: https://www.youtube.com/watch?v=A2oodPYUw_4
 
-## Transcriptd
+## Transcript
 
 Is publishing content for SEO even worth
 it anymore? I mean, you've got AI
