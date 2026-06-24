@@ -1,4 +1,4 @@
-#!/usr/bin/env python3d
+#!/usr/bin/env python3
 """Fetch a YouTube transcript and save it as Markdown."""
 
 from __future__ import annotations
