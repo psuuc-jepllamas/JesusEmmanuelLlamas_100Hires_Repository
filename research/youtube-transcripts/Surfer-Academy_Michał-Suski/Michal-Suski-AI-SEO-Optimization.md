@@ -4,7 +4,7 @@
 - Channel: Randy The News Guy
 - URL: https://www.youtube.com/watch?v=o25--P_u8RA
 
-## Transcriptd
+## Transcript
 
 All right. Hey, good morning everybody
 and welcome to hot off the press.
