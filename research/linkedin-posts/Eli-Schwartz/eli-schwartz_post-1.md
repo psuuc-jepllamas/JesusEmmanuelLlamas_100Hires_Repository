@@ -1,4 +1,4 @@
-# Post by Eli Schwartz — June 2026z
+# Post by Eli Schwartz — June 2026
 
 No, Google search is not suddenly going away. Everything Google announced at I/O has already been happening, so there won't be a sudden decrease in traffic. 
 
