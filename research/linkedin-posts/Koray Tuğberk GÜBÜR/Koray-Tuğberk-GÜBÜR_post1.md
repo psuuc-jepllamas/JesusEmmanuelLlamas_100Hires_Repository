@@ -34,6 +34,8 @@
 
 Posted by Holistic SEO & Digital
 
-**Source**: https://www.linkedin.com/posts/koray-tugberk-gubur_generativeseo-seo-topicalauthority-share-7134574003087716353-zPnH/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFda3VABHXBcSMpNk3tA3sF2l4e1cNF_Yqc
-**Date**: 26 Nov 2023
-**Author**: Koray Tuğberk GÜBÜR, CEO and Founder of Holistic SEO & Digital
+---
+
+- **Source**: https://www.linkedin.com/posts/koray-tugberk-gubur_generativeseo-seo-topicalauthority-share-7134574003087716353-zPnH/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFda3VABHXBcSMpNk3tA3sF2l4e1cNF_Yqc
+- **Date**: 26 Nov 2023
+- **Author**: Koray Tuğberk GÜBÜR, CEO and Founder of Holistic SEO & Digital

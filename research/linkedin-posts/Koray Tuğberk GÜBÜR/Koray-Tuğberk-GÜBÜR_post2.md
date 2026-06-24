@@ -54,6 +54,8 @@ In 2026, we will introduce comprehensive lectures covering:
 
 These will detail how to build landing pages that satisfy both linguistic and visual information retrieval systems.
 
-**Source**: https://www.linkedin.com/posts/koray-tugberk-gubur_industry-hair-transplant-region-uk-focus-share-7403549679684292608-cfyF/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFda3VABHXBcSMpNk3tA3sF2l4e1cNF_Yqc
-**Date**: 07 Dec 2025
-**Author**: Koray Tuğberk GÜBÜR, CEO and Founder of Holistic SEO & Digital
+---
+
+- **Source**: https://www.linkedin.com/posts/koray-tugberk-gubur_industry-hair-transplant-region-uk-focus-share-7403549679684292608-cfyF/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFda3VABHXBcSMpNk3tA3sF2l4e1cNF_Yqc
+- **Date**: 07 Dec 2025
+- **Author**: Koray Tuğberk GÜBÜR, CEO and Founder of Holistic SEO & Digital
