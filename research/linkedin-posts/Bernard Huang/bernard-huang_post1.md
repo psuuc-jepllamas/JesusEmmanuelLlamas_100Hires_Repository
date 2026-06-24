@@ -22,6 +22,8 @@ AI companies are making billions from work they didn’t pay for.
 
 The people who made that work are getting cut out. So where should we go from here?
 
-**Source**: https://www.linkedin.com/posts/bernardjhuang_ai-is-using-our-work-then-sending-us-none-activity-7474857489268711424-rQ-J?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFda3VABHXBcSMpNk3tA3sF2l4e1cNF_Yqc
-**Date**: 22 Jun 2026
-**Author**: Bernard Huang, Building autonomous AI businesses and previously founder & bootstrapper at Clearscope
+---
+
+- **Source**: https://www.linkedin.com/posts/bernardjhuang_ai-is-using-our-work-then-sending-us-none-activity-7474857489268711424-rQ-J?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFda3VABHXBcSMpNk3tA3sF2l4e1cNF_Yqc
+- **Date**: 22 Jun 2026
+- **Author**: Bernard Huang, Building autonomous AI businesses and previously founder & bootstrapper at Clearscope
