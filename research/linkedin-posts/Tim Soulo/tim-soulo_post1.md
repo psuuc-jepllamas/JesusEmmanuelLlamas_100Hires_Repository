@@ -22,6 +22,8 @@ In the last 6 months at Ahrefs, we analyzed over 1 billion data points across 14
 
 10) AI Overviews change every 2.15 days on average, with 70% of content differing between consecutive observations. But semantic similarity stays at 0.95. The words, sources, and entities constantly shuffle, but the actual meaning barely moves.
 
-**Source**: https://www.linkedin.com/posts/timsoulo_in-the-last-6-months-at-ahrefs-we-analyzed-activity-7467561528830078976-rUjs?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFda3VABHXBcSMpNk3tA3sF2l4e1cNF_Yqc
-**Date**: 02 Jun 2026
-**Author**: Tim Soulo, CMO at Ahrefs
+---
+
+- **Source**: https://www.linkedin.com/posts/timsoulo_in-the-last-6-months-at-ahrefs-we-analyzed-activity-7467561528830078976-rUjs?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFda3VABHXBcSMpNk3tA3sF2l4e1cNF_Yqc
+- **Date**: 02 Jun 2026
+- **Author**: Tim Soulo, CMO at Ahrefs
