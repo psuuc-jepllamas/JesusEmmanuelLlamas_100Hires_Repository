@@ -10,6 +10,9 @@
 
 Along with resources and tools. Check it out, link in comments. 👇
 
+**Link from the comment section**: https://speakerdeck.com/aleyda/the-state-of-ecommerce-seo-and-ai-search-in-2026-what-are-the-shifts-and-the-top-actions-to-take-smx-munich
+
+
 **Source**: https://www.linkedin.com/posts/aleyda_the-state-of-ecommerce-seo-ai-search-ugcPost-7437200801984348161-6ygG/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFda3VABHXBcSMpNk3tA3sF2l4e1cNF_Yqc
 **Date**: 10 Mar 2026
 **Author**: Aleyda Solis, SEO & AI Search Consultant & Founder Orainti
