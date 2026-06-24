@@ -1,7 +1,5 @@
 # Post by Aleyda Solis— June 2026
 
----
-
 The 3 Layer AI Search Diagnostic & Measurement Matrix: Tying AI Presence, Readiness and Business Impact to facilitate actionability 👇 
 
 I've created a workbook based on my A 3 Layer Framework for AI Search measurement and diagnostic, connecting: 
