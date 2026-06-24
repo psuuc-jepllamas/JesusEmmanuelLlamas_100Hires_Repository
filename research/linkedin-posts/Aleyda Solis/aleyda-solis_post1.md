@@ -14,7 +14,7 @@ I've created a workbook based on my A 3 Layer Framework for AI Search measuremen
 
 Check it out, link in comments 👀
 
-**Link from the comment section**: https://docs.google.com/spreadsheets/d/135MVnhLoxcytDhskhZXfyqg21HQtBJjeQz6DNObrCYg/edit
+**Google docs link from the comment section**: https://docs.google.com/spreadsheets/d/135MVnhLoxcytDhskhZXfyqg21HQtBJjeQz6DNObrCYg/edit
 
 
 
