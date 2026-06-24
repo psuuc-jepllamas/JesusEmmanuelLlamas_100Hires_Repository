@@ -20,6 +20,8 @@ Here's what you should not do right now:
 
 ✅ Do read my newsletter from this week on what I learned attending I/O https://lnkd.in/efX9-eag
 
-**Source**: https://www.linkedin.com/posts/schwartze_google-io-2026-what-you-need-to-know-for-activity-7463249306393800704-2dOM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFda3VABHXBcSMpNk3tA3sF2l4e1cNF_Yqc
-**Date**: 21 May 2026
-**Author**: Eli Schwartz, Author of Product-Led SEO
+---
+
+- **Source**: https://www.linkedin.com/posts/schwartze_google-io-2026-what-you-need-to-know-for-activity-7463249306393800704-2dOM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFda3VABHXBcSMpNk3tA3sF2l4e1cNF_Yqc
+- **Date**: 21 May 2026
+- **Author**: Eli Schwartz, Author of Product-Led SEO
