@@ -1,7 +1,5 @@
 # Post by Aleyda Solis — June 2025
 
----
-
 The AI Search Content Optimization Checklist [With Google Sheets to copy/paste] 👇
 
 I’ve created an AI Search Content Optimization Checklist, going through the most important aspects to take into account to optimize your content for AI search answers along with their importance and how to take action, going through: 
