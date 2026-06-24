@@ -15,6 +15,8 @@ Swipe through for 3 of the 7.
 
 Read the full study here: https://lnkd.in/exxHNAHV
 
-**Source**: https://www.linkedin.com/posts/kyle-roof-seo_the-page-people-see-is-content-the-page-activity-7475190678185140224---WX?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFda3VABHXBcSMpNk3tA3sF2l4e1cNF_Yqc
-**Date**: 23 Jun 2026
-**Author**: Kyle Roof, Inventor of PageOptimizer Pro
+---
+
+- **Source**: https://www.linkedin.com/posts/kyle-roof-seo_the-page-people-see-is-content-the-page-activity-7475190678185140224---WX?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFda3VABHXBcSMpNk3tA3sF2l4e1cNF_Yqc
+- **Date**: 23 Jun 2026
+- **Author**: Kyle Roof, Inventor of PageOptimizer Pro
