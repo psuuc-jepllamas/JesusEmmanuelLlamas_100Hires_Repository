@@ -26,6 +26,8 @@ I believe we're already seeing - and will keep seeing - Google, OpenAI and other
 
 So, as always: test, experiment, learn. But my spidey senses say that building these pages at scale - and doing it inauthentically - like trashing your competitor while calling yourself the best - is risky. When too many sites adopt these approaches, they become a liability long-term.
 
-**Source**: https://www.linkedin.com/posts/lily-ray-44755615_i-think-the-next-frontier-of-spam-fighting-activity-7472261355274817538-Xv_f?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFda3VABHXBcSMpNk3tA3sF2l4e1cNF_Yqc
-**Date**: 15 Jun 2026
-**Author**: Lily Ray, Founder of Algorythmic
+---
+
+- **Source**: https://www.linkedin.com/posts/lily-ray-44755615_i-think-the-next-frontier-of-spam-fighting-activity-7472261355274817538-Xv_f?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFda3VABHXBcSMpNk3tA3sF2l4e1cNF_Yqc
+- **Date**: 15 Jun 2026
+- **Author**: Lily Ray, Founder of Algorythmic
