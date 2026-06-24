@@ -23,7 +23,7 @@ from youtube_transcript_api._errors import (
 
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
-DEFAULT_OUTPUT_ROOT = REPO_ROOT / "research" / "youtube-transcripts"
+DEFAULT_OUTPUT_ROOT = REPO_ROOT / "youtube-transcripts"
 VIDEO_ID_RE = re.compile(r"^[A-Za-z0-9_-]{11}$")
 
 
