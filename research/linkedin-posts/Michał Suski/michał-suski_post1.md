@@ -38,6 +38,8 @@ Now the winner is the one who can say the thing clearly, fast, and without all t
 
 In the podcast, we also talked about what not to do in AI Search — because there are already plenty of vendors selling magical dashboards that look smart, but measure the wrong thing.
 
-**Source**: https://www.linkedin.com/posts/michal-suski_most-seo-content-is-written-like-ai-has-the-activity-7475423604940337152-0JEA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFda3VABHXBcSMpNk3tA3sF2l4e1cNF_Yqc
-**Date**: 24 Jun 2026
-**Author**: Michał Suski, AI SEO
+---
+
+- **Source**: https://www.linkedin.com/posts/michal-suski_most-seo-content-is-written-like-ai-has-the-activity-7475423604940337152-0JEA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFda3VABHXBcSMpNk3tA3sF2l4e1cNF_Yqc
+- **Date**: 24 Jun 2026
+- **Author**: Michał Suski, AI SEO
