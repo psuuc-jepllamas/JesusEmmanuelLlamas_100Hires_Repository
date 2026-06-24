@@ -4,7 +4,7 @@
 - Channel: Surfer Academy
 - URL: https://www.youtube.com/watch?v=8YRvsoY16Wc
 
-## Transcript
+## Transcriptc
 
 Who would have thought in 2022 that
 ChatGpt, this new fun little app that
