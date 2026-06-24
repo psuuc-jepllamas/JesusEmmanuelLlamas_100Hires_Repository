@@ -1,7 +1,7 @@
 # Bad News: It's Not Just Listicles
 
 - Source: https://www.clearscope.io/blog/bad-news-its-not-just-listicles
-- Date: 13 Feb 2026
+- Date: 13 Feb 2026d
 
 ## Transcript
 
