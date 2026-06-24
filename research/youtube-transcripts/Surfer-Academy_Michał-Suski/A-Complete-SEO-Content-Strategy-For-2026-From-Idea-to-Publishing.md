@@ -4,7 +4,7 @@
 - Channel: Surfer Academy
 - URL: https://www.youtube.com/watch?v=ZrnBUM4F2mA
 
-## Transcriptz
+## Transcript
 
 In this video, I'm going to walk you
 through a complete SEO content strategy
