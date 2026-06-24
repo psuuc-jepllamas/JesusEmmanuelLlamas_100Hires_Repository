@@ -135,3 +135,9 @@ Experts were selected based on:
 - **B2B SaaS relevance** — their content applies directly to SaaS content production
 - **Recent activity** — all were publishing content in 2025–2026
 - **Platform diversity** — mix of LinkedIn, YouTube, and newsletter sources
+
+---
+
+I also added scripts for transcripting YouTube videos and blog websites.
+- **YouTube Transcript API** — youtube-transcript-api
+- **Blog Website Transcript API** — trafilatura
