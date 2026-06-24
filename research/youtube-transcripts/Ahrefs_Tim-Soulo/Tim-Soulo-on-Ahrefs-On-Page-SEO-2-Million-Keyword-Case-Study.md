@@ -4,7 +4,7 @@
 - Channel: Ryan Stewart
 - URL: https://www.youtube.com/watch?v=BDb4sGzDuFs
 
-## Transcript
+## Transcriptd
 
 hey guys what's going on Ryan Stewart
 here with Weber I'm starting a new thing
