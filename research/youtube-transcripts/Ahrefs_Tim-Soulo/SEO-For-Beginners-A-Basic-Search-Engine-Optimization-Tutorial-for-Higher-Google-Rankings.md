@@ -4,7 +4,7 @@
 - Channel: Ahrefs
 - URL: https://www.youtube.com/watch?v=DvwS7cV9GmQ
 
-## Transcriptd
+## Transcript
 
 3.5 billion searches are performed
 on Google every single day.
