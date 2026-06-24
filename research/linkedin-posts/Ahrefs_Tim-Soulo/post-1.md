@@ -1,4 +1,4 @@
-# Post by Tim Soulo — June 2026
+# Post by Tim Soulo — June 2026s
 
 In the last 6 months at Ahrefs, we analyzed over 1 billion data points across 14 studies. Here's what we learned about AI search optimization:
 
