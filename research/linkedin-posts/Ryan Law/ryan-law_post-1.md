@@ -26,6 +26,8 @@ if you know that you are compromising on your content through your use of AI, or
 
 if you want to win, change your framing and use AI to make content that is cooler and better than you were able to do before ✌
 
-**Source**: https://www.linkedin.com/posts/thinkingslow_does-ai-content-work-is-entirely-the-wrong-activity-7470769358055825408-X1Wn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFda3VABHXBcSMpNk3tA3sF2l4e1cNF_Yqc
-**Date**: 11 Jun 2026
-**Author**: Ryan Law, Director of Content Marketing at Ahrefs
+---
+
+- **Source**: https://www.linkedin.com/posts/thinkingslow_does-ai-content-work-is-entirely-the-wrong-activity-7470769358055825408-X1Wn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFda3VABHXBcSMpNk3tA3sF2l4e1cNF_Yqc
+- **Date**: 11 Jun 2026
+- **Author**: Ryan Law, Director of Content Marketing at Ahrefs

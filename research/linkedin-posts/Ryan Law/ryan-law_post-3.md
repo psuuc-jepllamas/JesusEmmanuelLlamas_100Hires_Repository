@@ -18,6 +18,8 @@ i wrote an article with some real-world inspiration from the Ahrefs blog team (a
 
 full article here: https://lnkd.in/egQfrdZY
 
-**Source**: https://www.linkedin.com/posts/thinkingslow_7-ways-to-automate-content-marketing-with-activity-7462800485750599681-nL2R?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFda3VABHXBcSMpNk3tA3sF2l4e1cNF_Yqc
-**Date**: 20 May 2026
-**Author**: Ryan Law, Director of Content Marketing at Ahrefs
+---
+
+- **Source**: https://www.linkedin.com/posts/thinkingslow_7-ways-to-automate-content-marketing-with-activity-7462800485750599681-nL2R?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFda3VABHXBcSMpNk3tA3sF2l4e1cNF_Yqc
+- **Date**: 20 May 2026
+- **Author**: Ryan Law, Director of Content Marketing at Ahrefs

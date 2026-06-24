@@ -18,6 +18,8 @@ but i think there will always be value (and reward) for extremely high-quality c
 
 content marketing is absolutely crazy right now, and frankly i am having the best time
 
-**Source**:https://www.linkedin.com/posts/thinkingslow_content-marketing-is-going-through-the-biggest-activity-7466085949089742848-QyPM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFda3VABHXBcSMpNk3tA3sF2l4e1cNF_Yqc
-**Date**: 29 May 2026
-**Author**: Ryan Law, Director of Content Marketing at Ahrefs
+---
+
+- **Source**:https://www.linkedin.com/posts/thinkingslow_content-marketing-is-going-through-the-biggest-activity-7466085949089742848-QyPM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFda3VABHXBcSMpNk3tA3sF2l4e1cNF_Yqc
+- **Date**: 29 May 2026
+- **Author**: Ryan Law, Director of Content Marketing at Ahrefs
