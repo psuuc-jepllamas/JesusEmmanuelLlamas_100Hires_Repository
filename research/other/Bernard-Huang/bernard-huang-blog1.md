@@ -1,7 +1,7 @@
 # Your Organic Traffic Is Not Coming Back (The Sky Is Falling—and That’s Okay)
 
 - Source: https://www.clearscope.io/blog/your-organic-traffic-is-not-coming-back
-- Date: 08 Jan 2026
+- Date: 08 Jan 2026z
 
 ## Transcript
 
