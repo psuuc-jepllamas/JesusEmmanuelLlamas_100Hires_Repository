@@ -1,5 +1,7 @@
 # Post by Aleyda Solis — August 2025
 
+---
+
 Traditional Search vs AI Search Optimization Shifts across different areas of optimization 👇  
 
 It has become almost an ideological battle to discuss whether AI search optimization is just doing SEO.
@@ -16,6 +18,8 @@ The sooner we start expanding what we do to take into account the above (in a re
 
 PS: I'll be writing about this much more in the upcoming weeks/months, as well as upcoming presentations at events... any AI search optimization question you have? Top mistakes you see organizations doing you would like me to address? Leave in comments 👇
 
-**Source**: https://www.linkedin.com/posts/aleyda_traditional-search-vs-ai-search-optimization-share-7366032023775326208-Wd3C/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFda3VABHXBcSMpNk3tA3sF2l4e1cNF_Yqc
-**Date**: 26 Aug 2025
-**Author**: Aleyda Solis, SEO & AI Search Consultant & Founder Orainti
+---
+
+- **Source**: https://www.linkedin.com/posts/aleyda_traditional-search-vs-ai-search-optimization-share-7366032023775326208-Wd3C/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFda3VABHXBcSMpNk3tA3sF2l4e1cNF_Yqc
+- **Date**: 26 Aug 2025
+- **Author**: Aleyda Solis, SEO & AI Search Consultant & Founder Orainti
