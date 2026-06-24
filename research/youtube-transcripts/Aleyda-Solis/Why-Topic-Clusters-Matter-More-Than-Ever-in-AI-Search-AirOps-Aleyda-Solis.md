@@ -4,7 +4,7 @@
 - Channel: AirOps | The growth platform for AI search
 - URL: https://www.youtube.com/watch?v=4YZ9SFWSK90
 
-## Transcript
+## Transcriptx
 
 One of the differences is that AI search
 platform rake complex queries into
