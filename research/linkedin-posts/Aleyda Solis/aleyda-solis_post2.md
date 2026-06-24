@@ -1,7 +1,5 @@
 # Post by Aleyda Solis — August 2025
 
----
-
 Traditional Search vs AI Search Optimization Shifts across different areas of optimization 👇  
 
 It has become almost an ideological battle to discuss whether AI search optimization is just doing SEO.
