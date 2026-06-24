@@ -4,7 +4,7 @@
 - Channel: Ahrefs Tutorials
 - URL: https://www.youtube.com/watch?v=h6IJZHOfU8I
 
-## Transcriptd
+## Transcript
 
 Uh we're so happy that you're here.
 Uh this is actually our third evolve 30
