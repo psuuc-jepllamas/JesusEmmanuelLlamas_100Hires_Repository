@@ -4,7 +4,7 @@
 - Channel: Surfer Academy
 - URL: https://www.youtube.com/watch?v=wcgvstd8yLE
 
-## Transcriptc
+## Transcript
 
 all right we are live um Hello everybody
 welcome to this another episode of
