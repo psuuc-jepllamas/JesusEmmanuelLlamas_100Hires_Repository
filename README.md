@@ -97,7 +97,7 @@ This topic was chosen because it sits at the intersection of AI tools, content s
 | Type | Count |
 |------|-------|
 | Experts identified | 10 |
-| LinkedIn posts collected | 16 |
+| LinkedIn posts collected | 15 |
 | YouTube transcripts collected | 27 |
 | Other | 2 |
 
